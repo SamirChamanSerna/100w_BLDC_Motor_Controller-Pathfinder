@@ -326,6 +326,18 @@
     [
       "bd5e620c-77b3-46f1-a718-89cd1182fd75",
       ""
+    ],
+    [
+      "86cdd35b-a858-4f37-a673-ec7a499e55c2",
+      "Power"
+    ],
+    [
+      "c4ad5e8b-cc6a-4605-ae3c-e9a1e8ea3baf",
+      "Motor Driver & Encoder"
+    ],
+    [
+      "ea8134e5-754c-408f-918e-72ebb0e84e8d",
+      "Communication Peripherals"
     ]
   ],
   "text_variables": {}
