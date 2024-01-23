@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2024-01-22_00-26-35")(type "KiCad")(uri "${KIPRJMOD}/Symbols/2024-01-22_00-26-35.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-01-22_02-04-17")(type "KiCad")(uri "${KIPRJMOD}/Symbols/2024-01-22_02-04-17.kicad_sym")(options "")(descr ""))
+  (lib (name "ABLS-12_000MHZ-B4-T")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ABLS-12_000MHZ-B4-T.kicad_sym")(options "")(descr ""))
+  (lib (name "DSS14UTR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/DSS14UTR.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-01-23_05-03-01")(type "KiCad")(uri "${KIPRJMOD}/Symbols/2024-01-23_05-03-01.kicad_sym")(options "")(descr ""))
+)
